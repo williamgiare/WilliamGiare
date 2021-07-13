@@ -1,2 +1,2 @@
-Welcome to my GitHub Page! I'William Giarè, currently a (third year) PhD student in Astrophysics at Sapienza, University of Rome.
-I have a background in Theoretical Physics and I'm specializing in Cosmology.
+Theoretical physicist, currently PhD student in Cosmology at Sapienza, University of Rome. 
+My scientific interests are mainly focused on Gravitation, Cosmology and High Energy Physics.
