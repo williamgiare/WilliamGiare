@@ -1,2 +1,2 @@
 Theoretical physicist and Cosmologist (PhD)
-currently postdoctoral research fellow at GGI (INFN)
+Research Associate at the University of Sheffield (UK)
