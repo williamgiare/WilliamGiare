@@ -4,7 +4,6 @@ Hello and welcome to my GitHub!
 
 I'm a theoretical physicist and cosmologist, currently Research Associate in Theoretical Cosmology (Post-doc) at the School of Mathematical and Physical Sciences of the University of Sheffield.
 
-Formerly, I obtained my PhD in Astrophysics at Sapienza, University of Rome and then I was a post-doctoral research fellow at the INFN Center for Advanced Studies Galileo Galilei Institute for Theoretical Physics.  
 
 My scientific interests are very diversified. In a Venn diagram they would lie at the intersection between cosmology, astrophysics, and particle physics. Working at the interface between theory and data, I'm studying the possibility of using current and future cosmological and astrophysical observations to test and constrain new physics beyond the standard model of cosmology.
 
