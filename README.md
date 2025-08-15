@@ -16,7 +16,7 @@ If you have any questions about me or my research feel free to [contact me](mail
 
 - [My Personal website](https://www.williamgiare.com/)
 - [My Publications](https://inspirehep.net/authors/1775973?ui-citation-summary=true)
-- [My CV](https://drive.google.com/file/d/1ycrStwKeimyMttnfaLryVpLjo3XrVTAe/view)[^1]
+- [My CV](https://drive.google.com/file/d/1ycrStwKeimyMttnfaLryVpLjo3XrVTAe/view) [^1]
 
 
-[^1]: Longer/more detailed version available on request.
+[^1]: Longer/more detailed version available on request
