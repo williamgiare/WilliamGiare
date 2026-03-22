@@ -1,22 +1,16 @@
-# Overview
+# William Giarè
 
-Hello and welcome to my GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&pause=1000&color=777777&vCenter=true&width=700&lines=William+Giar%C3%A8;Cosmologist+at+the+University+of+Hawai%CA%BBi)](https://git.io/typing-svg)
 
-I'm a theoretical physicist and cosmologist, currently Research Associate in Theoretical Cosmology (Post-doc) at the School of Mathematical and Physical Sciences of the University of Sheffield.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=1200&color=777777&vCenter=true&multiline=true&width=900&height=140&lines=if+testable%3A%0A++++test_it%28%29%0Aelse%3A%0A++++drop_it%28%29;if+testable%3A%0A++++test_it%28%29%0Aelse%3A%0A++++make_it_testable%28%29)](https://git.io/typing-svg)
 
+Cosmology at the interface between theory, data analysis, and scientific computing.
 
-My scientific interests are very diversified. In a Venn diagram they would lie at the intersection between cosmology, astrophysics, and particle physics. Working at the interface between theory and data, I'm studying the possibility of using current and future cosmological and astrophysical observations to test and constrain new physics beyond the standard model of cosmology.
+This GitHub collects research code, numerical tools, and ongoing projects.
 
-My research activity combines theoretical, computational and numerical cosmology with statistics. I'm largely interested in statistical methods for cosmological and astrophysical data-analysis such as Monte Carlo techniques for the Bayesian inference of cosmological parameters and Machine Learning.  In addition, I deal with computational and numerical tools of cosmology, particularly with algorithms aimed at testing the observable predictions resulting from theoretical models of the Universe. These include (but are not limited to) codes for the anisotropies in the Cosmic Microwave Background Radiation, Gravitational Waves, and the Large Scale Structure of the Universe. 
+## Links
 
-If you have any questions about me or my research feel free to [contact me](mailto:w.giare@sheffield.ac.uk)!
-
-
-# Useful Links 
-
-- [My Personal website](https://www.williamgiare.com/)
-- [My Publications](https://inspirehep.net/authors/1775973?ui-citation-summary=true)
-- [My CV](https://drive.google.com/file/d/1ycrStwKeimyMttnfaLryVpLjo3XrVTAe/view) [^1]
-
-
-[^1]: Longer/more detailed version available on request
+- [Website](https://www.williamgiare.com/)
+- [Publications](https://inspirehep.net/authors/1775973?ui-citation-summary=true)
+- [CV](https://drive.google.com/file/d/1ycrStwKeimyMttnfaLryVpLjo3XrVTAe/view)
+- [Contact](mailto:giare@hawaii.edu)
