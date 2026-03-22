@@ -2,7 +2,7 @@
 
 Cosmologist at the University of Hawaiʻi.
 
-Most of what I build lives somewhere between cosmological inference, numerical tools, and testing fundamental physics.
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=3200&pause=1000&color=777777&vCenter=true&repeat=false&width=950&lines=Most+of+what+I+build+lives+somewhere+between+cosmological+inference%2C+numerical+tools%2C+and+testing+fundamental+physics.)](https://git.io/typing-svg)
 
 ## Links
 
