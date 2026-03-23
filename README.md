@@ -1,6 +1,6 @@
 # William Giarè
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=10&color=000000&multiline=true&repeat=false&width=438&height=100&lines=Cosmologist+at+the+University+of+Hawaii;---------------------------------------------;Most+of+what+I+build+lives+somewhere+between;Cosmology%2C+Statistics+and+Fundamental+Physics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=10&color=000000&background=FFFFFF&multiline=true&repeat=false&width=550&height=200&lines=Hello+and+welcome+to+my+GitHub!;I'm+a+cosmologist+at+the+University+of+Hawai%CA%BBi.;Most+of+my+work+lives+somewhere+between%3A;-+Theoretical+Cosmology+(early+Universe%2C+Dark+Sector%2C+gravity);-+Numerical+Cosmology+(solvers%2C+pipelines%2C+theory-to-data+tools);-+Statistics+(Bayesian+inference%2C+Monte+Carlo%2C+ML+and+AI);--------------------------------------------------------------------)](https://git.io/typing-svg)
 
 ## Links
 
