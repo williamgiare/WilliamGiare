@@ -2,7 +2,7 @@
 
 ## About
 
-![About William Giarè](about_me.png)
+I’m a cosmologist at the University of Hawaiʻi at Mānoa, working on the early Universe, the dark sector and cosmological tensions. Here I share codes, statistical tools, notebooks and other material from my research and teaching.
 
 ## Links
 
